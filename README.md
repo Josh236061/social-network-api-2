@@ -34,8 +34,6 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## URL(s)
 
-Heroku Publish Site URL:
-
 GitHub Repo URL: https://github.com/Josh236061/social-network-api-2/
 
 Walkthrough Video Link:
