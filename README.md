@@ -35,4 +35,4 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 GitHub Repo URL: https://github.com/Josh236061/social-network-api-2/
 
-Walkthrough Video Link:
+Walkthrough Video Link: https://drive.google.com/file/d/1XnRvKUGh95ckoiKRwN3mtqf4CGg3M3Kd/view?usp=share_link
